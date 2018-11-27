@@ -1,3 +1,5 @@
+# 区块链技术将在几年内抢走Visa的业务？
+
 以太坊区块链创始人Vitalik Buterin说，最快明年，以太坊网络可能对Visa等金融机构造成真正的威胁。
 
 在周一TechCrunch Disrupt会议上，与AngelList创始人Naval Ravikant的问答环节中，Buterin说安全是区块链进入主流的最大挑战，一旦这个问题得以解决，区块链技术将在“几年内”抢走Visa等金融机构的业务甚至替代金融机构。
